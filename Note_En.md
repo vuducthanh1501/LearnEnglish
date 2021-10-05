@@ -13,7 +13,8 @@
 - Dùng để diễn tả 1 hành động hoặc thói quen lặp đi lạp lại trong hiện tại.  
 
 Ex: I get up early every morning. 
-    What do you do every night ? 
+    What do you do every night ?  
+
 **Note:** Cách dùng này thường dùng với các trạng từ hoặc cụm trạng từ chỉ tần suất như: always, usually, often, sometimes, occasionally(thỉnh thoảng), seldom(ít khi, hiếm khi), never, every day/week/month,..., one a week(mỗi tuần 1 lần), twice a year, .... 
 
 
